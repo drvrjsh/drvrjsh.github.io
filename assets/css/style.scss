@@ -3,16 +3,26 @@
 
 @import "{{ site.theme }}";
 
+#header nav ul li a {
+    background: linear-gradient(#ebaa60, #de7310);
+    background-color: #bd6720;
+}
+
+#header nav ul li a:hover {
+    background: linear-gradient(#8f5106, #a3500c);
+    background-color: #9e4610;
+}
+
+#header nav ul li a:fork {
+    padding: 0px 2px;
+}
+
 a {
     color: #ff7700;
 
     &:hover {
         color: #d4ae81;
     }
-}
-
-.fork {
-    padding: 0px 2px;
 }
 
 .anchor {

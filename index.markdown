@@ -4,3 +4,13 @@
 
 layout: default 
 ---
+
+### About
+
+😌 **First-year Electrical Engineering** student at **Carleton University**.
+
+🤔 **Consistently** enlarging a **technological stack** built in a stereotypical Lego Mindstorms class at age 8, **documenting** notable steps on a **YouTube channel** and this **website**.  
+
+😅 **Working out**, **sports**, **self-care**, and **listening to music** provides a much needed **balance**.
+
+### Posts 

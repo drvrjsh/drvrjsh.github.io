@@ -12,6 +12,8 @@ a {
 }
 
 .anchor {
-    text-decoration: none;
-    color: inherit;
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
 }

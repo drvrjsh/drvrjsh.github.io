@@ -5,7 +5,7 @@
 layout: default 
 ---
 
-### About
+## About
 
 😌 **First-year Electrical Engineering** student at **Carleton University**.
 
@@ -13,4 +13,8 @@ layout: default
 
 😅 **Working out**, **sports**, **self-care**, and **listening to music** provides a much needed **balance**.
 
-### Posts 
+## Posts 
+
+[Test Post 1](/) - 2024/04/11
+
+Description

@@ -6,14 +6,16 @@
 #header nav ul li a {
     background: linear-gradient(#ebaa60, #de7310);
     background-color: #bd6720;
+    border: 1px solid #cd7a1b;
 }
 
 #header nav ul li a:hover {
     background: linear-gradient(#8f5106, #a3500c);
     background-color: #9e4610;
+    border: 1px solid #cd7a1b;
 }
 
-#header nav ul li a:fork {
+#header nav ul li:fork {
     padding: 0px 2px;
 }
 
